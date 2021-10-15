@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/zshan/Monsoon 2021/Smart-Contract/backend/migrations'
+let g:netrw_dirhist_8='/home/zshan/Monsoon 2021/Smart-Contract/backend'
+let g:netrw_dirhist_7='/home/zshan/Monsoon 2021/Smart-Contract/backend/migrations'
+let g:netrw_dirhist_6='/home/zshan/Monsoon 2021/DataSystems/project-47/src/lib/executors'
+let g:netrw_dirhist_5='/home/zshan/Monsoon 2021/DataSystems/project-47/src/lib'
+let g:netrw_dirhist_4='/home/zshan/Monsoon 2021/DataSystems/project-47/src/lib/executors'
+let g:netrw_dirhist_3='/home/zshan/Monsoon 2021/DataSystems/project-47/src/lib'
+let g:netrw_dirhist_2='/home/zshan/.config'
+let g:netrw_dirhist_1='/home/zshan/github/Website/zshan0.github.io/_pages'
+let g:netrw_dirhist_0='/home/zshan/4th semester/dass-team-26/src/mobile/quickrevew/src/components/ProductsList'
