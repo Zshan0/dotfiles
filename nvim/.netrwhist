@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/etc/resolvconf'
+let g:netrw_dirhist_4='/home/zshan/Monsoon 2021/Hyperledge-Auction/chaincode-javascript-zeeshan'
+let g:netrw_dirhist_3='/home/zshan/tmp/AT/dead_states'
+let g:netrw_dirhist_2='/home/zshan/Monsoon 2021/DataSystems/project-47/data'
+let g:netrw_dirhist_1='/home/zshan/Monsoon 2021/DataSystems/bptree-47/build'

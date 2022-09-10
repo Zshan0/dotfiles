@@ -1,0 +1,16 @@
+[user]
+	email = zeeshan060801@gmail.com
+	name = Zshan0
+[credential]
+	helper = cache --timeout=43200
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[diff]
+	tool = vimdiff
+[core]
+    editor = vim
+[merge]
+	tool = vimdiff
